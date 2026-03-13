@@ -1,6 +1,6 @@
 package main;
 
-import cesde.Student;
+import cesde.domain.Student;
 
 public class Main {
 

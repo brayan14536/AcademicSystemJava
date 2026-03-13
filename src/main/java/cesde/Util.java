@@ -1,5 +1,7 @@
 package cesde;
 
+import cesde.domain.Student;
+
 public class Util {
 
 

@@ -1,4 +1,4 @@
-package cesde;
+package cesde.domain;
 
 public class Course {
 
